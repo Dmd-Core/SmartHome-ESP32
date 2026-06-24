@@ -30,7 +30,6 @@ The entire project is fully simulated using Wokwi, allowing development, testing
 * Software Requirements
 * Pin Configuration
 * Circuit Design
-* Project Structure
 * Installation Guide
 * Blynk Setup
 * Wokwi Simulation
