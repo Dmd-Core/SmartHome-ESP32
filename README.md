@@ -186,8 +186,6 @@ GPIO21 → Resistor → LED → GND
 
 <img src="images/circuit.png" width="180" alt="dmd-core-logo" />
 
----
-
 ## Blynk Dashboard
 
 Place your dashboard screenshot here:
@@ -538,8 +536,6 @@ Choose your preferred language to explore the technical documentation:
 # 👨‍💻 Author
 
 Mohammad Hossein Almasi | [dmd-core]
-
-If you find this project useful, feel free to fork it or contribute.
 
 Computer Engineering Student
 
