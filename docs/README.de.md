@@ -10,7 +10,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-C++-00979D)
 ![Wokwi](https://img.shields.io/badge/Wokwi-Simulation-orange)
 ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-red)
-
+</div>
 Ein IoT-basiertes Smart-Home-Automatisierungssystem, entwickelt mit **ESP32**, **Blynk Cloud** und dem **Wokwi-Simulator**.
 
 Dieses Projekt demonstriert die praktische Anwendung moderner IoT-Technologien (Internet der Dinge), um Haushaltsgeräte über das Internet fernzusteuern. Die Steuerung erfolgt über die Blynk-Plattform, während der ESP32 als zentrale Steuereinheit dient.
@@ -29,7 +29,6 @@ Das gesamte System wurde in der Simulationsumgebung Wokwi entwickelt und geteste
 * Softwareanforderungen
 * Pinbelegung
 * Schaltungsaufbau
-* Projektstruktur
 * Installationsanleitung
 * Einrichtung von Blynk
 * Wokwi-Simulation
