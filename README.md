@@ -41,7 +41,7 @@ The entire project is fully simulated using Wokwi, allowing development, testing
 * Security Notice
 * Future Improvements
 * Project Report
-* Paper Language
+* Documentation Gateway
 * Author
 * License
 * Acknowledgements
@@ -515,7 +515,6 @@ Potential upgrades include:
 The complete academic report is available in:
 
 ![System Diagram](docs/IoT.pdf)
-<link href="docs/IoT.pdf">pdf</a>
 
 The report explains:
 
@@ -528,17 +527,19 @@ The report explains:
 
 ---
 
-# 🌍 Paper Language
+### 🌐 Documentation Gateway
+Choose your preferred language to explore the technical documentation:
 
-The accompanying academic report is written in:
-
-**Persian (Farsi)**
-
+* GB **[English Documentation](README.en.md)** — *English*
+* IR **[Persian Documentation](README.fa.md)** — *قارسی*
+* DE **[German Documentation](README.de.md)** — *tysk*
 ---
 
 # 👨‍💻 Author
 
-**Mohammad Hossein Almasi**
+Mohammad Hossein Almasi | [dmd-core]
+
+If you find this project useful, feel free to fork it or contribute.
 
 Computer Engineering Student
 
@@ -596,3 +597,10 @@ If you found this project useful:
 📢 Share it with others
 
 Thank you for visiting this project and supporting open-source learning.
+
+<div align="center">
+  <br>
+  <a href="dmd.core.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
+  </a>
+</div>
