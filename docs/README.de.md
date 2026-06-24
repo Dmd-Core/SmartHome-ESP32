@@ -184,27 +184,13 @@ GPIO21 → Widerstand → LED → GND
 
 Fügen Sie hier einen Screenshot der Schaltung ein:
 
-```text
-images/circuit.png
-```
-
-```markdown
-![Schaltplan](images/circuit.png)
-```
-
----
+<img src="../images/circuit.png" width="180" alt="dmd-core-logo" />
 
 ## Blynk Dashboard
 
 Fügen Sie hier einen Screenshot des Dashboards ein:
 
-```text
-images/dashboard.png
-```
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
+<img src="../images/dashboard.png" width="180" alt="dmd-core-logo" />
 
 ---
 
@@ -493,18 +479,25 @@ Geplante Verbesserungen:
 
 Die vollständige Projektdokumentation befindet sich unter:
 
-```text
-docs/IoT.pdf
-```
+![System Diagram](docs/IoT.pdf)
+
+Rapporten forklarer:
+
+* Projektmål
+* IoT-koncepter
+* ESP32-konfiguration
+* Blynk-integration
+* Kredsløbsdesign
+* Implementeringsdetaljer
 
 ---
 
-# 🌍 Sprache der Dokumentation
+### 🌐 Dokumentationsgateway
+Vælg dit foretrukne sprog for at udforske den tekniske dokumentation:
 
-Die wissenschaftliche Dokumentation wurde in folgender Sprache verfasst:
-
-**Persisch (Farsi)**
-
+* GB **[English Documentation](README.en.md)** — *English*
+* IR **[Persian Documentation](README.fa.md)** — *قارسی*
+* DE **[German Documentation](README.de.md)** — *tysk*
 ---
 
 # 👨‍💻 Autor
@@ -523,15 +516,23 @@ Interessengebiete:
 
 GitHub:
 
-https://github.com/YOUR_USERNAME
+https://github.com/Dmd-core
 
 ---
 
-# 📜 Lizenz
+📜 Licens
 
-Dieses Projekt steht unter der MIT-Lizenz.
+Dette projekt er udgivet under MIT-licensen.
 
-Die Nutzung, Änderung und Weiterverbreitung für Bildungs- und Forschungszwecke ist ausdrücklich erlaubt.
+Du er fri til at:
+
+* Bruge
+* Ændre
+* Distribuere
+* Lære
+* Bygge videre på projektet
+
+til uddannelses- og forskningsformål.
 
 ---
 
@@ -559,3 +560,10 @@ Falls Ihnen dieses Projekt gefallen hat:
 📢 Projekt weiterempfehlen
 
 Vielen Dank für Ihr Interesse an diesem Projekt.
+
+<div align="center">
+  <br>
+  <a href="dmd.core.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
+  </a>
+</div>
