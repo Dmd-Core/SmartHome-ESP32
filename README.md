@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Logo.png" width="180" alt="dmd-core-logo" />
+  <img src="images/Logo.png" width="180" alt="dmd-core-logo" />
   
   # Smart Home IoT System
   **Architected & Developed by dmd-core**
@@ -10,6 +10,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-C++-00979D)
 ![Wokwi](https://img.shields.io/badge/Wokwi-Simulation-orange)
 ![License](https://img.shields.io/badge/License-MIT-red)
+</div>
 
 A complete IoT-based Smart Home Automation System built using **ESP32**, **Blynk Cloud**, and **Wokwi Simulator**.
 
@@ -183,15 +184,7 @@ GPIO21 → Resistor → LED → GND
 
 ## Circuit Diagram
 
-Place your circuit screenshot here:
-
-```text
-images/circuit.png
-```
-
-```markdown
-![Circuit Diagram](images/circuit.png)
-```
+<img src="images/circuit.png" width="180" alt="dmd-core-logo" />
 
 ---
 
@@ -199,13 +192,7 @@ images/circuit.png
 
 Place your dashboard screenshot here:
 
-```text
-images/dashboard.png
-```
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
+<img src="images/dashboard.png" width="180" alt="dmd-core-logo" />
 
 ---
 
