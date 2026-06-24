@@ -528,7 +528,7 @@ The report explains:
 ### 🌐 Documentation Gateway
 Choose your preferred language to explore the technical documentation:
 
-* IR **[Persian Documentation](docs/README.fa.md)** — *قارسی*
+* IR **[Persian Documentation](docs/README.fa.md)** — *فارسی*
 * DE **[German Documentation](docs/README.de.md)** — *tysk*
 ---
 
