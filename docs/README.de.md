@@ -466,6 +466,7 @@ Rapporten forklarer:
 ### 🌐 Dokumentationsgateway
 Vælg dit foretrukne sprog for at udforske den tekniske dokumentation:
 
+* JA **[Persian Documentation](README.ja.md)** — *日本語*
 * GB **[English Documentation](../README.md)** — *English*
 * IR **[Persian Documentation](README.fa.md)** — *قارسی*
 ---
