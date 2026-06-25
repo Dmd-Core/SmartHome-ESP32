@@ -220,7 +220,7 @@ Installieren Sie die aktuelle Version.
 ## Schritt 4: Repository klonen
 
 ```bash
-git clone https://github.com/IHR_BENUTZERNAME/Smart-Home-IoT.git
+git clone https://github.com/Dmd-core/SmartHome-ESP32.git
 ```
 
 ---
@@ -449,8 +449,6 @@ Geplante Verbesserungen:
 ---
 
 # 📄 Projektdokumentation
-
-Die vollständige Projektdokumentation befindet sich unter:
 
 ![System Diagram](IoT.de.pdf)
 
