@@ -187,8 +187,6 @@ GPIO21 → Resistor → LED → GND
 
 ## Blynk Dashboard
 
-Place your dashboard screenshot here:
-
 <img src="images/dashboard.png" width="180" alt="dmd-core-logo" />
 
 ---
