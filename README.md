@@ -230,7 +230,7 @@ Install the latest version.
 ## Step 4: Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Home-IoT.git
+git clone https://github.com/Dmd-core/SmartHome-ESP32.git
 ```
 
 ---
